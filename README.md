@@ -1,4 +1,4 @@
-# NEXTJS TAILWIND ECOMMERCE LIKE AMAZON
+# NextJs Tailwind ECommerce Website Like Amazon
 
 description
 
